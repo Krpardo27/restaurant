@@ -5,8 +5,8 @@ const Home = () => {
   return (
     <div className="container mx-auto p-4 max-w-5xl">
       <div className="mt-8 flex flex-col justify-center gap-4 items-center text-center">
-        <h1 className="text-7xl font-bold mb-4">
-          4. Per Se (Nueva York, EE. UU.)
+        <h1 className="lg:text-7xl text-5xl font-bold mb-4">
+          Per Se (Nueva York, EE. UU.)
         </h1>
         <p className="text-lg mb-4">
           <strong>Biografía:</strong> Fundado en 2004 por el chef Thomas Keller,
