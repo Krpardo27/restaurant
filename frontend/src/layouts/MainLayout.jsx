@@ -6,7 +6,7 @@ const MainLayout = () => {
   return (
     <>
       <Header />
-      <main className="container mx-auto max-w-7xl p-4 lg:p-0 lg:mt-10 h-screen">
+      <main className="container mx-auto max-w-7xl lg:p-4 p-2 lg:mt-10">
         <Outlet />
       </main>
       <Footer />

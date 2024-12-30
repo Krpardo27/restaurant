@@ -25,7 +25,7 @@ const Header = () => {
 
   return (
     <header
-      className={`sticky top-0 w-full p-4 h-[90px] transition-colors duration-500 ${headerColor}`}
+      className={`sticky top-0 w-full p-4 h-[90px] transition-colors duration-500 z-50 ${headerColor}`}
     >
       <div className="flex max-w-7xl items-center justify-between container mx-auto h-full flex-row-reverse lg:flex-row ">
         <div className="">
